@@ -26,6 +26,8 @@ function Home() {
     <div>
     <h1>Routing</h1>
     <p>This is Home Page </p>
+
+    
     </div>
   );
 }
